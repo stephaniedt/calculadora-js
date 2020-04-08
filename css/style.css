@@ -72,3 +72,12 @@ body {
 .btn:hover {
     opacity: 0.6;
 }
+
+#deleteLast {
+    
+    justify-content: flex-end;
+}
+
+#result {
+    width: 100%;
+}
